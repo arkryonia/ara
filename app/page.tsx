@@ -1,6 +1,9 @@
+import { Button } from '@/components/ui/button';
 const HomePage = () => {
   return (
-    <div className="flex justify-center h-screen items-center text-5xl text-pink-400">HomePage</div>
+    <div className="flex justify-center h-screen items-center text-5xl">
+      <Button>Hola</Button>
+    </div>
   );
 };
 

@@ -1,4 +1,4 @@
-- [ ] Tailwind CSS 4 + Shadcn UI
+- [x] Tailwind CSS 4 + Shadcn UI
 - [ ] Auth.js 5
 - [ ] Prisma
 - [ ] Todo APP
