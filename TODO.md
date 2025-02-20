@@ -1,5 +1,6 @@
 - [x] Tailwind CSS 4 + Shadcn UI
-- [ ] Auth.js 5
+- [x] Auth.js 5
 - [ ] Prisma
 - [ ] Todo APP
 - [ ] Blog
+- [ ] Ajouter une base de données pour la gestion des utilisateurs
